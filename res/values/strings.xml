@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Menu</string>
+    <string name="title_section1">首页</string>
+    <string name="title_section2">添加菜谱</string>
+    <string name="title_section3">我要做菜</string>
+    <string name="action_settings">Settings</string>
+	<string name="hello_mainmenu">Hello this is main menu !</string>
+    
+</resources>
